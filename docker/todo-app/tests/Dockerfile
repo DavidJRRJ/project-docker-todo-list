@@ -1,5 +1,5 @@
-
 FROM node:14-alpine
+FROM mjgargani/puppeteer:trybe1.0
 
 WORKDIR /app
 
